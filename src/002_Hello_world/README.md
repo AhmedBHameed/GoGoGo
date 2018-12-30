@@ -1,4 +1,4 @@
-# 001- Hello World
+# 002- Hello World
 
 ```go
 package main
@@ -12,7 +12,7 @@ func main() {
 }
 ```
 
-## Some terms should we now about them
+## Some terms should we know about them
 
 
 > Type interface{}
@@ -25,7 +25,7 @@ func main() {
 - use underscore `_` when you don't need to use a return variable. Because of Go nature it prevent us from using unused variable and the only way to ignore it is by using `_`.
 
 > We use notation in Go
-- `package.identifier` is the notation for using packages in Go. `fmt.Println()` is a notation. So package is `fmt` and we call identifier, constant, function from this package, so we called `Println` function from it.
+- `package.identifier` is the notation for using packages in Go. `fmt.Println()` is a notation. So package is `fmt` and we call identifiers, constant, function from this package, so we called `Println` function from it.
 
 > Packages
 - are codes are written so that we can use them by importing them.
