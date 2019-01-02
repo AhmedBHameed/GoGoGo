@@ -9,3 +9,4 @@ This is Go language course for nice learning curve.
 - [004_Types](src/004_Types)
 - [005_Create_your_own_type](src/005_Create_your_own_type)
 - [006_Read_documentation](src/006_Read_documentation)
+- [007_Bool_Numeric_types](src/007_Bool_Numeric_types)

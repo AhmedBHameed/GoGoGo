@@ -1,4 +1,4 @@
-# 005- Read documentation
+# 006- Read documentation
 
 ```go
 package main
